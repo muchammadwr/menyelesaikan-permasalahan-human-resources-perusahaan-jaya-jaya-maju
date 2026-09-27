@@ -2,9 +2,7 @@
 
 ## Business Understanding
 
-Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun 2000 dengan lebih dari 1.000 karyawan di seluruh Indonesia. Dalam dua dekade terakhir, perusahaan menunjukkan pertumbuhan signifikan dan mengukuhkan posisinya di industri.
-Namun, pesatnya perkembangan bisnis diiringi tantangan dalam pengelolaan SDM, khususnya dalam mempertahankan karyawan. Tingginya attrition rate yang melebihi 10% menjadi perhatian utama, karena berdampak pada stabilitas operasional, efisiensi, serta meningkatnya biaya rekrutmen dan pelatihan.
-Oleh karena itu, manajemen—khususnya Departemen HR—menilai perlu dilakukan analisis berbasis data untuk mengidentifikasi faktor penyebab dan merumuskan strategi penurunan tingkat attrition secara efektif.
+Jaya Jaya Maju adalah perusahaan multinasional dengan $>1000$ karyawan. Perusahaan mengalami masalah retensi di mana attrition rate melampaui 10% (standar industri sehat umumnya di bawah 10%). High attrition berdampak pada tingginya biaya rekrutmen (recruitment cost), hilangnya institutional knowledge, dan penurunan produktivitas tim.
 
 ---
 
@@ -12,9 +10,7 @@ Oleh karena itu, manajemen—khususnya Departemen HR—menilai perlu dilakukan a
 
 Permasalahan utama yang ingin diselesaikan dalam proyek ini antara lain:
 
-1. **Tingginya tingkat attrition karyawan** (>10%) yang belum diketahui secara pasti penyebab utamanya.
-2. Kurangnya **informasi terstruktur dan mendalam** terkait faktor-faktor yang memengaruhi keputusan karyawan untuk keluar.
-3. Tidak adanya **alat bantu visual (dashboard)** yang dapat memantau indikator-indikator kunci SDM secara real-time.
+"Jaya Jaya Maju mengalami tingkat attrition rate >10% yang berdampak pada membengkaknya biaya rekrutmen dan pelatihan karyawan baru. Tim HR kekurangan visibilitas data lintas domain (kompensasi, kepuasan kerja, beban kerja, dan jenjang karir) untuk mendeteksi karyawan yang berisiko keluar sebelum mereka mengajukan resign."
 
 ---
 
